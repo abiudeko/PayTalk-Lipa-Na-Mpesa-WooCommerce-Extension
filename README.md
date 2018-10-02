@@ -1,5 +1,7 @@
 ![Paytalk.co.ke](https://ps.w.org/paytalk-lipa-na-mpesa/assets/banner-772x250.png?rev=1949697)
 
+Website: https://Paytalk.co.ke
+
 # PayTalk-Lipa-Na-Mpesa-WooCommerce-Extension
 Paytalk Lipa Na Mpesa WooCommerc extension enables online stores accept payments from mpesa customers
 Few Features
