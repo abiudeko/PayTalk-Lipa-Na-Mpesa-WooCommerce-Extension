@@ -28,3 +28,4 @@ ACTIVATION
 5. Enter the API details with the Paybill/Till number registered on your Paytalk developer account.
 
 
+[![Alt text for your video](https://img.youtube.com/vi/EaOS4m2msmI/0.jpg)](https://www.youtube.com/watch?v=EaOS4m2msmI&t=49s)
